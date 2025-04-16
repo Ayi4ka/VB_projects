@@ -9,17 +9,11 @@
 | [Function Plotting](./graphics) | Plots user-defined mathematical functions on a coordinate chart. | Построение графиков функций по введённой пользователем формуле. |
 
 💡 Topics Covered / Изучаемые темы
-- Graphical User Interface (GUI)
-- Physics simulation
-- Function parsing and rendering
-- Real-time chart updates
-- Timers, loops, coordinate plotting
+- Graphical User Interface (GUI)/Графический интерфейс пользователя (GUI)
+- Physics simulation/Физическое моделирование
+- Function parsing and rendering/Анализ и рендеринг функций
+- Timers, loops, coordinate plotting/Таймеры, циклы, построение координат
 
-- Графический интерфейс пользователя (GUI)
-- Физическое моделирование
-- Анализ и рендеринг функций
-- Обновления диаграмм в реальном времени
-- Таймеры, циклы, построение координат
 
 ⚙️ Technologies / Технологии
 - Visual Basic .NET
