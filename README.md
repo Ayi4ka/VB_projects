@@ -1,4 +1,5 @@
-Visual Basic Physics Portfolio / Портфолио проектов на Visual Basic
+#Visual Basic Physics Portfolio / Портфолио проектов на Visual Basic
+
 🖥️ A focused collection of Visual Basic projects developed as part of physics-related coursework. The projects showcase applied mathematics, GUI development, and basic simulation.
 
 🖥️ Подборка проектов на Visual Basic, созданных в рамках учебной практики по физике и математике. Программы демонстрируют применение формул, работу с графикой и визуализацию процессов.
@@ -6,6 +7,7 @@ Visual Basic Physics Portfolio / Портфолио проектов на Visual
 📌 Projects / Проекты
 
 | [Math Pendulum](./math_pendulum) | Simulates a mathematical pendulum with customizable parameters. | Симуляция математического маятника с возможностью задания параметров. |
+
 | [Function Plotting](./graphics) | Plots user-defined mathematical functions on a coordinate chart. | Построение графиков функций по введённой пользователем формуле. |
 
 💡 Topics Covered / Изучаемые темы
