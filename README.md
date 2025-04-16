@@ -1,36 +1,36 @@
-Visual Basic Physics Simulations
-📊 A small collection of educational Visual Basic projects focusing on physics visualization and interactive calculations.
+Visual Basic Physics Portfolio / Портфолио проектов на Visual Basic
+🖥️ A focused collection of Visual Basic projects developed as part of physics-related coursework. The projects showcase applied mathematics, GUI development, and basic simulation.
 
-📁 Projects / Проекты
+🖥️ Подборка проектов на Visual Basic, созданных в рамках учебной практики по физике и математике. Программы демонстрируют применение формул, работу с графикой и визуализацию процессов.
 
-Project	Description	Описание
-Math Pendulum	Simulates a mathematical pendulum and visualizes angular motion over time.	Симуляция математического маятника и визуализация его движения.
-Function Plotting	Builds mathematical function graphs from user input using charting tools.	Построение графиков функций по формуле, заданной пользователем.
-🔧 Technologies / Технологии
+📌 Projects / Проекты
+
+Project	Description (EN)	Описание (RU)
+Math Pendulum	Simulates a mathematical pendulum with customizable parameters.	Симуляция математического маятника с возможностью задания параметров.
+Function Plotting	Plots user-defined mathematical functions on a coordinate chart.	Построение графиков функций по введённой пользователем формуле.
+💡 Topics Covered / Изучаемые темы
+Graphical User Interface (GUI)
+
+Physics simulation
+
+Function parsing and rendering
+
+Real-time chart updates
+
+Timers, loops, coordinate plotting
+
+⚙️ Technologies / Технологии
 Visual Basic .NET
 
-Windows Forms
+Windows Forms (WinForms)
 
-Built-in chart and graphics libraries
+Built-in Chart & Timer components
 
-Timer-based animations
+💻 All projects were built using Visual Studio and developed as part of coursework and self-study.
+💻 Все проекты были созданы в среде Visual Studio в рамках учебной практики и самостоятельной работы.
 
-🧠 Topics Covered / Изучаемые темы
-Physics formulas (oscillatory motion, functions)
+📅 Developed in 2020 / Разработано в 2020
 
-GUI input/output
+🌟 From swinging pendulums to dancing sine waves — every motion is programmable.
+🌟 От качающихся маятников до танцующих синусоид — любое движение можно закодировать.
 
-Real-time chart rendering
-
-Mathematical logic and user validation
-
-Basic animation and plotting
-
-📦 How to Run / Как запустить
-Open the .sln file inside each project folder using Visual Studio.
-
-Make sure the required chart and timer components are included in the Form.
-
-Build and run the project (F5).
-
-🎓 These projects were made for academic learning and personal exploration of physics and programming logic using Visual Basic.
