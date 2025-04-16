@@ -34,3 +34,10 @@ Built-in Chart & Timer components
 🌟 From swinging pendulums to dancing sine waves — every motion is programmable.
 🌟 От качающихся маятников до танцующих синусоид — любое движение можно закодировать.
 
+![image](https://github.com/user-attachments/assets/a3fccefb-89c5-423e-8bf5-3ef475b578b9)
+![image](https://github.com/user-attachments/assets/9746520f-258e-4351-a3ca-9422f5303f4d)
+![image](https://github.com/user-attachments/assets/8762e5d3-ef92-4234-b7ec-c3ec50a646fc)
+![image](https://github.com/user-attachments/assets/b75c5e20-1093-42eb-80d4-0301e7fb1895)
+
+
+
