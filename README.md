@@ -5,9 +5,9 @@ Visual Basic Physics Portfolio / Портфолио проектов на Visual
 
 📌 Projects / Проекты
 
-Project	Description (EN)	Описание (RU)
-Math Pendulum	Simulates a mathematical pendulum with customizable parameters.	Симуляция математического маятника с возможностью задания параметров.
-Function Plotting	Plots user-defined mathematical functions on a coordinate chart.	Построение графиков функций по введённой пользователем формуле.
+| [Math Pendulum](./math_pendulum) | Simulates a mathematical pendulum with customizable parameters. | Симуляция математического маятника с возможностью задания параметров. |
+| [Function Plotting](./graphics) | Plots user-defined mathematical functions on a coordinate chart. | Построение графиков функций по введённой пользователем формуле. |
+
 💡 Topics Covered / Изучаемые темы
 Graphical User Interface (GUI)
 
