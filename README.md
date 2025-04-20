@@ -1,6 +1,7 @@
 # Visual Basic Physics Portfolio / Портфолио проектов на Visual Basic
 
-🖥️ A focused collection of Visual Basic projects developed as part of physics-related coursework. The projects showcase applied mathematics, GUI development, and basic simulation./Подборка проектов на Visual Basic, созданных в рамках учебной практики по физике и математике. Программы демонстрируют применение формул, работу с графикой и визуализацию процессов.
+🖥️ A focused collection of Visual Basic projects developed as part of physics-related coursework. The projects showcase applied mathematics, GUI development, and basic simulation.
+🖥️ Подборка проектов на Visual Basic, созданных в рамках учебной практики по физике и математике. Программы демонстрируют применение формул, работу с графикой и визуализацию процессов.
 
 📌 Projects / Проекты
 
@@ -9,10 +10,10 @@
 | [Function Plotting](./graphics) | Plots user-defined mathematical functions on a coordinate chart. | Построение графиков функций по введённой пользователем формуле. |
 
 💡 Topics Covered / Изучаемые темы
-- Graphical User Interface (GUI)/Графический интерфейс пользователя (GUI)
-- Physics simulation/Физическое моделирование
-- Function parsing and rendering/Анализ и рендеринг функций
-- Timers, loops, coordinate plotting/Таймеры, циклы, построение координат
+- Graphical User Interface (GUI) / Графический интерфейс пользователя (GUI)
+- Physics simulation / Физическое моделирование
+- Function parsing and rendering / Анализ и рендеринг функций
+- Timers, loops, coordinate plotting / Таймеры, циклы, построение координат
 
 
 ⚙️ Technologies / Технологии
@@ -20,11 +21,11 @@
 - Windows Forms (WinForms)
 - Built-in Chart & Timer components
 
-💻 All projects were built using Visual Studio and developed as part of coursework and self-study./Все проекты были созданы в среде Visual Studio в рамках учебной практики и самостоятельной работы.
+💻 All projects were built using Visual Studio and developed as part of coursework and self-study. / Все проекты были созданы в среде Visual Studio в рамках учебной практики и самостоятельной работы.
 
-📅 Developed in 2020 / Разработано в 2020
+🤝 Author | Автор Made with ❤️ by Ayi4ka in 2020 / Сделано с любовью — Айка в 2020 году
 
-🌟 From swinging pendulums to dancing sine waves — every motion is programmable./От качающихся маятников до танцующих синусоид — любое движение можно закодировать.
+🌟 From swinging pendulums to dancing sine waves — every motion is programmable. / От качающихся маятников до танцующих синусоид — любое движение можно закодировать.
 
 ![image](https://github.com/user-attachments/assets/a3fccefb-89c5-423e-8bf5-3ef475b578b9)
 ![image](https://github.com/user-attachments/assets/9746520f-258e-4351-a3ca-9422f5303f4d)
