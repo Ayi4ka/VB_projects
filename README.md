@@ -1,6 +1,7 @@
 # Visual Basic Physics Portfolio / Портфолио проектов на Visual Basic
 
 🖥️ A focused collection of Visual Basic projects developed as part of physics-related coursework. The projects showcase applied mathematics, GUI development, and basic simulation.
+
 🖥️ Подборка проектов на Visual Basic, созданных в рамках учебной практики по физике и математике. Программы демонстрируют применение формул, работу с графикой и визуализацию процессов.
 
 📌 Projects / Проекты
